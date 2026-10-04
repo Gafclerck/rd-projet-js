@@ -1,0 +1,14 @@
+{
+  "name": "mon-projet-js",
+  "version": "1.0.0",
+  "description": "Script interactif avec le SDK JavaScript officiel de RodiumAi",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "rodiumai": ">=0.3.1"
+  }
+}
